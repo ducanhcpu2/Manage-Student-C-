@@ -1,0 +1,173 @@
+﻿  Drawable.cpp
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(85): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(213): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(214): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(350): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(351): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(389): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\drawable.cpp(390): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Main.cpp
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(185): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(252): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\standardized.h(256): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(102): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(118): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(136): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(41): warning C4101: 'key': unreferenced local variable
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(212): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(213): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(245): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(246): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(296): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(299): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(303): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(305): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(307): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(308): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(318): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(322): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(326): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(327): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(357): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(358): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(396): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(411): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(439): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(452): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(459): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(460): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(496): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(498): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(515): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(517): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(524): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(589): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(619): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(602): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(603): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(604): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(636): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(665): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(686): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(662): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(663): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(677): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(678): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(710): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(707): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(731): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(751): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(779): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(806): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(812): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(897): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(876): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(821): warning C4101: 'key': unreferenced local variable
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(45): warning C4018: '>': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(278): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\menu.h(281): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Support.cpp
+  Generating Code...
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(310): warning C4172: returning address of local variable or temporary: temp
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(329): warning C4172: returning address of local variable or temporary: temp
+c:\users\cpu2\desktop\thuctapktlt-nguyễn đức anh mmt15\thuctapktlt\thuctapktlt\function.h(700): warning C4715: 'Binary_search': not all control paths return a value
+  ThucTapKTLT.vcxproj -> C:\Users\cpu2\Desktop\ThucTapKTLT-nguyễn đức anh MMT15\ThucTapKTLT\Debug\ThucTapKTLT.exe
